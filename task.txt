@@ -2,3 +2,5 @@ Task List
 - Learn R code
 - Analyse data
 - Learn the pulling process
+- Redoing push process from beginning woithout guidance
+- Trying again
