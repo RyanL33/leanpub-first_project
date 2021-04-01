@@ -1,3 +1,4 @@
 Task List
 - Learn R code
 - Analyse data
+- Learn the pulling process
